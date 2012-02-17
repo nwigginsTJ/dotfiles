@@ -1,5 +1,4 @@
-===
 DotFiles
-===
--  A collection of my vim and bash files
+==================
+A collection of my vim and bash files
 
